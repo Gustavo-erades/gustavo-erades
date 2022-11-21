@@ -6,7 +6,6 @@
 ![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-erades&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/gustavo-erades/github-readme-stats)
 
-
 ## Tecnologias que uso:
 <div display:inline_block><br/>
     <img align: center alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
