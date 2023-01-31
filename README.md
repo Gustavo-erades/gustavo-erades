@@ -17,7 +17,7 @@
 </div><br/>
 
 ## Sobre mim:
-- Segundo semestre de Análise e Desenvolvimento de Sistemas<br/>
+- Terceiro semestre de Análise e Desenvolvimento de Sistemas<br/>
 - 19 anos<br/>
 - Xadrez [♟️](https://lichess.org/@/VemTranquilovisk)<br/>
 - Rock [🎧](https://open.spotify.com/playlist/6eO31rfQ0aIGyGVUB1H7eK)<br/>
