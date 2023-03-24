@@ -13,7 +13,7 @@
     <img align: center alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align: center alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align: center alt="C/C++" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align: center alt="PHP" src="https://img.shields.io/badge/PHP-00599PHP?style=for-the-badge&logo=php&logoColor=purple"/>
+    <img align: center alt="PHP" src="https://img.shields.io/badge/PHP-00599PHP?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br/>
 
 ## Sobre mim:
