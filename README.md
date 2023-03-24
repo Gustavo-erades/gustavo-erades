@@ -3,8 +3,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-%C3%AArades-vilarinho-silva-22a357231/)
 
-![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-erades&layout=compact&show_icons=true&theme=merko)](https://github.com/gustavo-erades/github-readme-stats)
+![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-erades&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/gustavo-erades/github-readme-stats)
 
 ## Tecnologias que estudo:
 <div display:inline_block><br/>
