@@ -12,10 +12,12 @@
     <img align: center alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align: center alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align: center alt="C/C++" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/:org">
+
 </div><br/>
 
 ## Sobre mim:
-- Terceiro semestre de Análise e Desenvolvimento de Sistemas<br/>
+- Quarto semestre de Análise e Desenvolvimento de Sistemas<br/>
 - 19 anos<br/>
 - Xadrez [♟️](https://lichess.org/@/VemTranquilovisk)<br/>
 - Rock [🎧](https://open.spotify.com/playlist/6eO31rfQ0aIGyGVUB1H7eK)<br/>
