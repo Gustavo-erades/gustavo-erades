@@ -21,8 +21,7 @@
 - Xadrez [♟️](https://lichess.org/@/VemTranquilovisk)<br/>
 - Rock [🎧](https://open.spotify.com/playlist/6eO31rfQ0aIGyGVUB1H7eK)<br/>
 - Desenho ✏️<br/>
-- Basquete [!image <i class="fa-solid fa-basketball fa-sm" style="color: #f09800;"></i>]
- <br/>
+- Basquete 🏀 <br/>
 - Programação 💻<br/>
 
 ## Contato:<br/>
