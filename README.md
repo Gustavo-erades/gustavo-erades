@@ -1,11 +1,12 @@
-## Olá mundo! Sou Gustavo Êrades 👋
+## <?= Olá mundo! Sou Gustavo Êrades 👋 ?>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-%C3%AArades-vilarinho-silva-22a357231/)
 
 ![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-erades&layout=compact&show_icons=true&theme=dark)](https://github.com/gustavo-erades/github-readme-stats)
 
-## Tecnologias que estudo:
+## Linguagens:
 <div display:inline_block><br/>
+    ![HTML5](https://www.flaticon.com/br/icone-gratis/html5_1216909?term=html5&related_id=1216909)
     <img align: center alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align: center alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align: center alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7341ef?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -27,6 +28,5 @@
 
 ## Contato:<br/>
 - eradesvilarinho@gmail.com 📧<br/>
-- gustavoerades@gmail.com 📧<br/>
 - +55(61)99449-0664 📱<br/>
 
