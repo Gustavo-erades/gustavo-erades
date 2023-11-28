@@ -1,4 +1,4 @@
-##  `<?=` Olá mundo! Sou Gustavo Êrades 👋 `?>`
+##  `<?= Olá mundo! Sou Gustavo Êrades ?>`
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-%C3%AArades-vilarinho-silva-22a357231/)
 
 ![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=dark)
