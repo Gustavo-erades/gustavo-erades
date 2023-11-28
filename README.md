@@ -23,5 +23,4 @@
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/>
 </div><br/>
 
-## Quarto semestre de Análise e Desenvolvimento de Sistemas
 ## Contato: eradesvilarinho@gmail.com
