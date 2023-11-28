@@ -6,15 +6,13 @@
 
 ## Linguagens:
 <div display:inline_block><br/>
-    <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/html-5.png" alt="html-5"/>
-    <img align: center alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align: center alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align: center alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7341ef?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align: center alt="JavaScript" src="https://img.shields.io/badge/JavaScript-352815?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-    <img align: center alt="PHP" src="https://img.shields.io/badge/PHP-56187b?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align: center alt="Python" src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=dark"/>
-    <img align: center alt="SQL" src="https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align: center alt="C/C++" src="https://img.shields.io/badge/C-4E9252?style=for-the-badge&logo=c&logoColor=white"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+    <img width="64" height="64" src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php-logo"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+    <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="external-sql-mobile-app-development-flaticons-lineal-color-flat-icons"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 </div><br/>
 
 ## Sobre mim:
