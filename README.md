@@ -6,7 +6,7 @@
 
 ## Linguagens:
 <div display:inline_block><br/>
-    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/html-5--v1.png" alt="html-5--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/html-5.png" alt="html-5"/>
     <img align: center alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align: center alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align: center alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7341ef?style=for-the-badge&logo=bootstrap&logoColor=white"/>
