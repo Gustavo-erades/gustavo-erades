@@ -33,7 +33,7 @@
 - Programação 💻<br/>
 
 ## Contato:<br/>
-- [![Linkedin](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eradesvilarinho@gmail.com)
+<a href="eradesvilarinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br/>
 - +55(61)99449-0664 📱<br/>
 
