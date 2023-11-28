@@ -9,7 +9,7 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-    <a href="https://iconscout.com/icons/php" class="text-underline font-size-sm" target="_blank">Php</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm">Icon 54</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+    <img width="67" height="67" src="https://img.icons8.com/external-others-inmotus-design/67/external-PHP-applications-and-programs-others-inmotus-design.png" alt="external-PHP-applications-and-programs-others-inmotus-design"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 </div><br/>
