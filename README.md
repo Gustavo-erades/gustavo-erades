@@ -9,9 +9,8 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-    <img width="24" height="24" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/24/000000/external-PHP-programming-and-development-those-icons-lineal-color-those-icons.png" alt="external-PHP-programming-and-development-those-icons-lineal-color-those-icons"/>
+    <a href="https://iconscout.com/icons/php" class="text-underline font-size-sm" target="_blank">Php</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm">Icon 54</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-    <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="external-sql-mobile-app-development-flaticons-lineal-color-flat-icons"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 </div><br/>
 
