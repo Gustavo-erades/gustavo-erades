@@ -23,4 +23,4 @@
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/>
 </div><br/>
 
-## Contato: eradesvilarinho@gmail.com
+## Contato: eradesvilarinho@gmail.com | +55 (61) 9 99449-0664
