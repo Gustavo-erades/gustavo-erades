@@ -1,6 +1,6 @@
 ##  `<?= Olá mundo! Sou Gustavo Êrades ?>`
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-%C3%AArades-vilarinho-silva-22a357231/)
-[[Currículo](https://drive.google.com/file/d/1ir7UqDs69gwS_WKyjvzVjm-35JxLfO7D/view?usp=sharing)
+### <a href="https://drive.google.com/file/d/1ir7UqDs69gwS_WKyjvzVjm-35JxLfO7D/view?usp=sharing">Currículo</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-erades&layout=compact&show_icons=true&theme=dark)](https://github.com/gustavo-erades/github-readme-stats)
 ![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=dark)
