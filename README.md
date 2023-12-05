@@ -11,7 +11,6 @@
     <img width="48" height="48" src="https://img.icons8.com/external-others-inmotus-design/67/external-PHP-applications-and-programs-others-inmotus-design.png" alt="external-PHP-applications-and-programs-others-inmotus-design"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-logo"/>
 </div><br/>
 
 ## Outras tecnologias:
