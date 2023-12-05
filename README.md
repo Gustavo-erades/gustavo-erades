@@ -2,7 +2,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-%C3%AArades-vilarinho-silva-22a357231/)
 
 ![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-erades&layout=donut&theme=merko)](https://github.com/gustavo-erades/github-readme-stats)
 
 ## Linguagens:
 <div display:inline_block><br/>
