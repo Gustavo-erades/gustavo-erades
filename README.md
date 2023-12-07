@@ -10,7 +10,9 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/external-others-inmotus-design/67/external-PHP-applications-and-programs-others-inmotus-design.png" alt="external-PHP-applications-and-programs-others-inmotus-design"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-    <img width="48" height="48" src="https://icons8.com.br/icons/set/programa%C3%A7%C3%A3o-c" alt="c-logo"/>
+    <img width="48" height="48" src="" alt="c-logo"/>
+    ![icons8-programação-c-48](https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/8d27c99a-4fd8-46ed-8398-1ab6d270e945)
+
 </svg>
 </div><br/>
 
