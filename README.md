@@ -8,7 +8,6 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-others-inmotus-design/67/external-PHP-applications-and-programs-others-inmotus-design.png" alt="external-PHP-applications-and-programs-others-inmotus-design"/>
     <img width="64" height="48" src="https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/a8f4c0b8-9d22-4638-8f59-2b7b167e973b" alt="php"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
     <img width="48" height="48" src="https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/8d27c99a-4fd8-46ed-8398-1ab6d270e945" alt="c-logo"/>
