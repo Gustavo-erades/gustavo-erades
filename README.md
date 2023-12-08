@@ -31,4 +31,4 @@
 ## Contato: 
 ### eradesvilarinho@gmail.com | +55 (61) 9 99449-0664
 ## <a href="https://drive.google.com/file/d/1ir7UqDs69gwS_WKyjvzVjm-35JxLfO7D/view?usp=sharing" target="_blank">Currículo</a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343942&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=277EFB&height=120&section=footer"/>
