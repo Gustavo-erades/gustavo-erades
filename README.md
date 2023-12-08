@@ -12,12 +12,12 @@
 <img src="https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/198f534d-ac8d-412f-9fb2-cf34ac6a7308"  min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Linguagens:
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 ## Outras tecnologias:
 <div display:inline_block><br/>
@@ -31,4 +31,4 @@
 ## Contato: 
 ### eradesvilarinho@gmail.com | +55 (61) 9 99449-0664
 ## <a href="https://drive.google.com/file/d/1ir7UqDs69gwS_WKyjvzVjm-35JxLfO7D/view?usp=sharing" target="_blank">Currículo</a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=277EFB&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25789F&height=120&section=footer"/>
