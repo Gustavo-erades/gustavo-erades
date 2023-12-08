@@ -1,5 +1,5 @@
 ##  `<?= Olá mundo! Sou Gustavo Êrades ?>`
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/2391858e-42de-492b-a61f-91edcbf246af" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/361013d2-2611-4b05-b4a4-78cc8e11db2e" />
 &nbsp;&nbsp;&nbsp;
 <p align="center">Aspirante a programador cursando o quarto semestre de Análise e Desenvolvimento de Sistemas, atualmente estudando desenvolvimento web. Além de programação gosto de xadrez, basquete, desenhar e escutar música</p>&nbsp;
 
@@ -10,6 +10,7 @@
 ![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=dark)
 
 <img src="https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/198f534d-ac8d-412f-9fb2-cf34ac6a7308"  min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## Linguagens:
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
