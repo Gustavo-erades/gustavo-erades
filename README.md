@@ -10,7 +10,6 @@
 ![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-erades&layout=compact&theme=dark)
 
-<img src="https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/198f534d-ac8d-412f-9fb2-cf34ac6a7308"  min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Linguagens:
 ![HTML](https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
