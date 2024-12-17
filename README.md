@@ -1,7 +1,7 @@
 ##  `<?= Olá mundo! Sou Gustavo Êrades ?>`
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavo-erades/gustavo-erades/assets/108373134/361013d2-2611-4b05-b4a4-78cc8e11db2e" />
 &nbsp;&nbsp;&nbsp;
-<p align="center">Aspirante a programador cursando o quinto semestre de Análise e Desenvolvimento de Sistemas, atualmente estudando e trabalhando com desenvolvimento web. Além de programação gosto de xadrez, basquete, desenhar e escutar música</p>&nbsp;
+<p align="center">Aspirante a programador formado em Análise e Desenvolvimento de Sistemas, atualmente estudando e trabalhando com desenvolvimento web. Além de programação gosto de xadrez, basquete, desenhar e escutar música</p>&nbsp;
 
 ##
 
