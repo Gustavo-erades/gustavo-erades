@@ -34,4 +34,4 @@
 ## Contato: 
 ### <a href = "mailto:eradesvilarinho@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-%C3%AArades-vilarinho-silva-22a357231/)
 ## <a href="https://drive.google.com/file/d/1ir7UqDs69gwS_WKyjvzVjm-35JxLfO7D/view?usp=drive_link" target="_blank">Currículo</a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25789F&height=120&section=footer"/>
+
