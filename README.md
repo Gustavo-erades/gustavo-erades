@@ -1,6 +1,6 @@
 ##  <p align="center">`<?= Olá mundo! Sou Gustavo Êrades ?>`</p>
 
-&nbsp;<p align="center">Aspirante a programador formado em Análise e Desenvolvimento de Sistemas, cursando pós-graduação em Desenvolvimento Full-Stack. Atualmente estudando e trabalhando com desenvolvimento web. Além de programação gosto de xadrez, basquete, desenhar e escutar música.</p>&nbsp;
+&nbsp;<p align="center">Desenvolvedor web, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Desenvolvimento Full-Stack. Buscando aprimorar habilidades e crescer na área de tecnologia.</p>&nbsp;
 
 ##
 
