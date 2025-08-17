@@ -28,6 +28,7 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/>
     <img width="48" height="48" src="https://avatars.githubusercontent.com/u/23666?s=200&v=4" alt="cakephp"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo" alt="jquery"/>
 
 </div><br/>
 
