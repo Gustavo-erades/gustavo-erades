@@ -2,15 +2,6 @@
 
 &nbsp;<p align="center">Desenvolvedor web, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Desenvolvimento Full-Stack. Buscando aprimorar habilidades e crescer na área de tecnologia.</p>&nbsp;
 
-##
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-%C3%AArades-vilarinho-silva-22a357231/)
-
-
-![Gustavo-erades GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-erades&show_icons=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-erades&layout=compact&theme=dark)
-
-
 ## Linguagens:
 ![HTML](https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
