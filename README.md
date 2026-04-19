@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim
 
-Formado no final do ano de 2024 pela Universidade Estácio unidade de Brasília com pós graduação em desenvolvimento full stack 
+Formado no final do ano de 2024 pela Universidade Estácio unidade de Brasília (Taguatinga) com pós graduação em desenvolvimento full stack 
 pela Universidade Pontifícia de Minas Gerais em andamento, atualmente atuando como desenvolvedor backend PHP.
 
 Buscando aprofundar meus conhecimentos em arquitetura de sistemas e desenvolvimento full-stack.
