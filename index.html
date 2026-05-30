@@ -5,6 +5,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" type="image/x-icon" href="eu.jpg">
+
+
 <title>Gustavo Êrades</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -210,14 +212,21 @@ a:hover{
     margin-top:20px;
     overflow:hidden;
     opacity:0;
+    visibility:hidden;
 }
 
 .hero-rotator.loaded{
     opacity:1;
+    visibility:visible;
+}
+
+.hero-rotator span{
+    opacity:0;
+    visibility:hidden;
 }
 
 .hero-rotator.loaded span{
-
+ visibility:visible;
     position:absolute;
     width:100%;
     left:0;
