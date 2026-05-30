@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gustavo Êrades</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root{
+    --bg:#0d1117;
+    --card:#161b22;
+    --border:#30363d;
+    --text:#c9d1d9;
+    --title:#f0f6fc;
+    --accent:#58a6ff;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Inter',sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    line-height:1.7;
+}
+
+.container{
+    max-width:1000px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+header{
+    text-align:center;
+    margin-bottom:50px;
+}
+
+h1{
+    color:var(--title);
+    font-size:3rem;
+}
+
+.subtitle{
+    color:#8b949e;
+    margin-top:10px;
+}
+
+section{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:12px;
+    padding:25px;
+    margin-bottom:25px;
+}
+
+h2{
+    color:var(--title);
+    margin-bottom:15px;
+}
+
+.techs{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+}
+
+.techs img{
+    height:32px;
+}
+
+.icons{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+}
+
+.icons img{
+    width:48px;
+    transition:.3s;
+}
+
+.icons img:hover{
+    transform:scale(1.15);
+}
+
+a{
+    color:var(--accent);
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.buttons{
+    display:flex;
+    gap:15px;
+    flex-wrap:wrap;
+}
+
+.btn{
+    background:#238636;
+    color:white;
+    padding:12px 20px;
+    border-radius:8px;
+    font-weight:600;
+}
+
+.btn:hover{
+    background:#2ea043;
+    text-decoration:none;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+    <h1>Olá, eu sou Gustavo Êrades 👋</h1>
+    <p class="subtitle">
+        Desenvolvedor Web • Full-Stack em formação
+    </p>
+
+    <br>
+
+    <p>
+        🎓 Graduado em ADS<br>
+        🚀 Pós-graduando em Desenvolvimento Full-Stack<br>
+        ⚡ Sempre aprendendo algo novo
+    </p>
+</header>
+
+<section>
+    <h2>🚀 Sobre mim</h2>
+
+    <p>
+        Formado em Análise e Desenvolvimento de Sistemas pela
+        Universidade Estácio de Brasília (Taguatinga),
+        atualmente cursando pós-graduação em Desenvolvimento
+        Full-Stack pela PUC Minas.
+    </p>
+
+    <br>
+
+    <p>
+        Atualmente atuo como Desenvolvedor Backend PHP e busco
+        aprofundar meus conhecimentos em arquitetura de sistemas
+        e desenvolvimento full-stack.
+    </p>
+</section>
+
+<section>
+    <h2>🛠️ Tecnologias</h2>
+
+    <div class="techs">
+        <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5">
+        <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3">
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript">
+        <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php">
+    </div>
+
+    <br>
+
+    <div class="icons">
+        <img src="https://img.icons8.com/color/48/mysql-logo.png">
+        <img src="https://img.icons8.com/color/48/bootstrap--v2.png">
+        <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png">
+        <img src="https://img.icons8.com/color/48/git.png">
+        <img src="https://img.icons8.com/fluency/48/arduino.png">
+        <img src="https://avatars.githubusercontent.com/u/23666?s=200&v=4">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png">
+    </div>
+</section>
+
+<section>
+    <h2>📫 Contato</h2>
+
+    <div class="buttons">
+
+        <a class="btn"
+           href="mailto:eradesvilarinho@gmail.com">
+           Gmail
+        </a>
+
+        <a class="btn"
+           href="https://www.linkedin.com/in/gustavo-%C3%AArades-vilarinho-silva-22a357231/"
+           target="_blank">
+           LinkedIn
+        </a>
+
+    </div>
+</section>
+
+<section>
+    <h2>📄 Currículo</h2>
+
+    <a
+      href="https://drive.google.com/file/d/1ir7UqDs69gwS_WKyjvzVjm-35JxLfO7D/view?usp=drive_link"
+      target="_blank">
+      📎 Acessar meu currículo
+    </a>
+</section>
+
+</div>
+
+</body>
+</html>
