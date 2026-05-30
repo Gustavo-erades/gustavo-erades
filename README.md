@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gustavo Êrades 👋</h1>
+<h1 align="center">Olá, sou  Gustavo Êrades 👋</h1>
 
 <p align="center">
   Desenvolvedor Web • Full-Stack em formação
