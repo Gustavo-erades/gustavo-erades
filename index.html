@@ -1,14 +1,23 @@
 <!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Gustavo Êrades</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
+
+html{
+    scroll-behavior:smooth;
+}
+
 :root{
     --bg:#0d1117;
     --card:#161b22;
@@ -26,9 +35,18 @@
 
 body{
     font-family:'Inter',sans-serif;
-    background:var(--bg);
     color:var(--text);
     line-height:1.7;
+
+    background:
+        radial-gradient(
+            circle at top right,
+            rgba(88,166,255,.12),
+            transparent 35%
+        ),
+        var(--bg);
+
+    min-height:100vh;
 }
 
 .container{
@@ -50,6 +68,7 @@ h1{
 .subtitle{
     color:#8b949e;
     margin-top:10px;
+    font-size:1.1rem;
 }
 
 section{
@@ -58,11 +77,28 @@ section{
     border-radius:12px;
     padding:25px;
     margin-bottom:25px;
+
+    transition:.3s ease;
+}
+
+section:hover{
+    transform:translateY(-5px);
+    border-color:var(--accent);
+    box-shadow:0 10px 30px rgba(88,166,255,.15);
 }
 
 h2{
     color:var(--title);
     margin-bottom:15px;
+}
+
+a{
+    color:var(--accent);
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
 }
 
 .techs{
@@ -90,122 +126,322 @@ h2{
     transform:scale(1.15);
 }
 
-a{
-    color:var(--accent);
-    text-decoration:none;
+/* ===================== */
+/* ENTRADA DOS ELEMENTOS */
+/* ===================== */
+
+.animate{
+    opacity:0;
+    transform:translateY(30px);
+    animation:fadeInUp .9s ease forwards;
 }
 
-a:hover{
-    text-decoration:underline;
+.delay-1{ animation-delay:.2s; }
+.delay-2{ animation-delay:.5s; }
+.delay-3{ animation-delay:.8s; }
+.delay-4{ animation-delay:1.1s; }
+.delay-5{ animation-delay:1.4s; }
+.delay-6{ animation-delay:1.7s; }
+
+@keyframes fadeInUp{
+    from{
+        opacity:0;
+        transform:translateY(30px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
 }
 
-.buttons{
-    display:flex;
-    gap:15px;
-    flex-wrap:wrap;
+/* ===================== */
+/* TÍTULO */
+/* ===================== */
+
+.wave{
+    display:inline-block;
+    transform-origin:70% 70%;
+    animation:wave 2s infinite;
 }
 
-.btn{
-    background:#238636;
-    color:white;
-    padding:12px 20px;
-    border-radius:8px;
-    font-weight:600;
+@keyframes wave{
+
+    0%{transform:rotate(0deg);}
+    10%{transform:rotate(14deg);}
+    20%{transform:rotate(-8deg);}
+    30%{transform:rotate(14deg);}
+    40%{transform:rotate(-4deg);}
+    50%{transform:rotate(10deg);}
+    60%{transform:rotate(0deg);}
+    100%{transform:rotate(0deg);}
 }
 
-.btn:hover{
-    background:#2ea043;
-    text-decoration:none;
+/* ===================== */
+/* SUBTÍTULO */
+/* ===================== */
+
+.slide-up{
+    opacity:0;
+    animation:slideUp 1.2s ease forwards;
+    animation-delay:.6s;
 }
+
+@keyframes slideUp{
+
+    from{
+        opacity:0;
+        transform:translateY(30px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+/* ===================== */
+/* TEXTO ROTATIVO */
+/* ===================== */
+
+.hero-rotator{
+    position:relative;
+    height:35px;
+    margin-top:20px;
+    overflow:hidden;
+    opacity:0;
+}
+
+.hero-rotator.loaded{
+    opacity:1;
+}
+
+.hero-rotator.loaded span{
+
+    position:absolute;
+    width:100%;
+    left:0;
+
+    opacity:0;
+
+    color:var(--text);
+    font-size:1.05rem;
+    font-weight:500;
+
+    animation:rotateText 18s infinite;
+}
+
+.hero-rotator.loaded span:nth-child(1){
+    animation-delay:0s;
+}
+
+.hero-rotator.loaded span:nth-child(2){
+    animation-delay:6s;
+}
+
+.hero-rotator.loaded span:nth-child(3){
+    animation-delay:12s;
+}
+
+@keyframes rotateText{
+
+    0%{
+        opacity:0;
+        transform:translateX(-80px);
+    }
+
+    8%{
+        opacity:1;
+        transform:translateX(0);
+    }
+
+    30%{
+        opacity:1;
+        transform:translateX(0);
+    }
+
+    38%{
+        opacity:0;
+        transform:translateX(50px);
+    }
+
+    100%{
+        opacity:0;
+    }
+}
+
+.contact-email{
+    font-size:1.05rem;
+    font-weight:500;
+}
+
+.contact-email a{
+    margin-left:5px;
+}
+
+@media(max-width:768px){
+
+    h1{
+        font-size:2.2rem;
+    }
+
+    .hero-rotator{
+        height:55px;
+    }
+
+    .hero-rotator span{
+        font-size:.95rem;
+    }
+}
+
 </style>
+
 </head>
+
 <body>
 
 <div class="container">
 
 <header>
-    <h1>Olá, eu sou Gustavo Êrades 👋</h1>
-    <p class="subtitle">
-        Desenvolvedor Web • Full-Stack em formação
-    </p>
 
-    <br>
 
-    <p>
-        🎓 Graduado em ADS<br>
-        🚀 Pós-graduando em Desenvolvimento Full-Stack<br>
+<h1 class="animate delay-1">
+    Olá, sou Gustavo Êrades
+    <span class="wave">👋</span>
+</h1>
+
+<p class="subtitle slide-up">
+    Desenvolvedor Web • Full-Stack em formação
+</p>
+
+<div class="hero-rotator animate delay-3">
+
+    <span>
+        🎓 Graduado em Análise e Desenvolvimento de Sistemas
+    </span>
+
+    <span>
+        🚀 Pós-graduando em Desenvolvimento Full-Stack
+    </span>
+
+    <span>
         ⚡ Sempre aprendendo algo novo
-    </p>
+    </span>
+
+</div>
+
+
 </header>
 
-<section>
-    <h2>🚀 Sobre mim</h2>
+<section class="animate delay-3">
 
-    <p>
-        Formado em Análise e Desenvolvimento de Sistemas pela
-        Universidade Estácio de Brasília (Taguatinga),
-        atualmente cursando pós-graduação em Desenvolvimento
-        Full-Stack pela PUC Minas.
-    </p>
 
-    <br>
+<h2>🚀 Sobre mim</h2>
 
-    <p>
-        Atualmente atuo como Desenvolvedor Backend PHP e busco
-        aprofundar meus conhecimentos em arquitetura de sistemas
-        e desenvolvimento full-stack.
-    </p>
+<p>
+    Formado em Análise e Desenvolvimento de Sistemas pela
+    Universidade Estácio de Brasília (Taguatinga),
+    atualmente cursando pós-graduação em Desenvolvimento
+    Full-Stack pela PUC Minas.
+</p>
+
+<br>
+
+<p>
+    Atualmente atuo como Desenvolvedor Backend PHP
+    e busco aprofundar meus conhecimentos em
+    arquitetura de sistemas e desenvolvimento
+    full-stack.
+</p>
+
+
 </section>
 
-<section>
-    <h2>🛠️ Tecnologias</h2>
+<section class="animate delay-4">
 
-    <div class="techs">
-        <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5">
-        <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3">
-        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript">
-        <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php">
-    </div>
 
-    <br>
+<h2>🛠️ Tecnologias</h2>
 
-    <div class="icons">
-        <img src="https://img.icons8.com/color/48/mysql-logo.png">
-        <img src="https://img.icons8.com/color/48/bootstrap--v2.png">
-        <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png">
-        <img src="https://img.icons8.com/color/48/git.png">
-        <img src="https://img.icons8.com/fluency/48/arduino.png">
-        <img src="https://avatars.githubusercontent.com/u/23666?s=200&v=4">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png">
-    </div>
+<div class="techs">
+
+    <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5">
+
+    <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3">
+
+    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript">
+
+    <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php">
+
+</div>
+
+<br>
+
+<div class="icons">
+
+    <img src="https://img.icons8.com/color/48/mysql-logo.png">
+
+    <img src="https://img.icons8.com/color/48/bootstrap--v2.png">
+
+    <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png">
+
+    <img src="https://img.icons8.com/color/48/git.png">
+
+    <img src="https://img.icons8.com/fluency/48/arduino.png">
+
+    <img src="https://avatars.githubusercontent.com/u/23666?s=200&v=4">
+
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png">
+
+</div>
+
+
 </section>
 
-<section>
-    <h2>📫 Contato</h2>
+<section class="animate delay-5">
 
-    <div class="buttons">
+<h2>📫 Contato</h2>
 
-     <p>
-        📧
-
-            eradesvilarinho@gmail.com
-   
-    </p>
-
-    </div>
-</section>
-
-<section>
-    <h2>📄 Currículo</h2>
-
-    <a
-      href="https://drive.google.com/file/d/1ir7UqDs69gwS_WKyjvzVjm-35JxLfO7D/view?usp=drive_link"
-      target="_blank">
-      📎 Acessar meu currículo
+<p class="contact-email">
+    📧
+    <a href="mailto:eradesvilarinho@gmail.com?subject=Contato%20via%20Portf%C3%B3lio">
+        eradesvilarinho@gmail.com
     </a>
+</p>
+
+
+</section>
+
+<section class="animate delay-6">
+
+
+<h2>📄 Currículo</h2>
+
+<a
+    href="https://drive.google.com/file/d/1ir7UqDs69gwS_WKyjvzVjm-35JxLfO7D/view?usp=drive_link"
+    target="_blank">
+    📎 Acessar meu currículo
+</a>
+
+
 </section>
 
 </div>
+
+<script>
+
+window.addEventListener('load', () => {
+
+    setTimeout(() => {
+
+        document
+            .querySelector('.hero-rotator')
+            .classList.add('loaded');
+
+    }, 2200);
+
+});
+
+</script>
 
 </body>
 </html>
